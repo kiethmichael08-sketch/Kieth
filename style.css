@@ -27,7 +27,7 @@ nav a:hover {
     margin: 40px auto;
     padding: 30px;
     display: flex;
-    align-items: center;
+    align-items: top;
     gap: 30px;
     border-radius: 15px;
 }
@@ -48,7 +48,7 @@ nav a:hover {
 }
 
 .gallery-img {
-    width: 300px;
+    width: 250px;
     border-radius: 10px;
 }
 
